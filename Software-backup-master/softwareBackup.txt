@@ -1,0 +1,27 @@
+vscode(Extension : 
+C/C++,
+Bracket Pair Colorizer,
+ES7 React/Redux/GraphQL
+ESLint
+GitLens
+GraphQl for Vscode
+Live Server
+Material Icon Theam
+Material-UI Snippets
+Path Intellisense
+Peacock
+REST client
+TODO Highlight
+Prettier
+)
+c/c++ setup(MingGW installer)
+java setup(JDK)
+python setup
+git
+node
+mongodb & mongodb compass
+VLC media player
+Postman
+Figma
+OBS studio
+

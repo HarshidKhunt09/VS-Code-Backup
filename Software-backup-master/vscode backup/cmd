@@ -1,0 +1,8 @@
+Generate extension text file :
+code --list-extensions >> vs_code_extensions_list.txt
+
+Download all extension :
+cat vs_code_extensions_list.txt | xargs -n 1 code --install-extension
+
+windows Power Shell
+cat vs_code_extensions_list.txt|% { code --install-extension $_}

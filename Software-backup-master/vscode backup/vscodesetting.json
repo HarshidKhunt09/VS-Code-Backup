@@ -1,0 +1,139 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.mouseWheelZoom": true,
+  // "[javascript]": {
+  //   "editor.formatOnSave": true,
+  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // },
+  "editor.formatOnPaste": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "explorer.confirmDelete": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "material-ui-snippets.showNotesOnStartup": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "python.defaultInterpreterPath": "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+  "turboConsoleLog.addSemicolonInTheEnd": true,
+  "editor.fontSize": 16,
+  "editor.fontLigatures": true,
+  "editor.cursorBlinking": "expand",
+  "editor.fontFamily": "'Fira Code',Consolas, 'Courier New', monospace",
+  "prettier.singleQuote": true,
+  "terminal.integrated.fontFamily": "'Fira Code',Consolas, 'Courier New', monospace",
+  "terminal.integrated.fontSize": 14,
+  "workbench.colorCustomizations": {
+    "terminal.background": "#141414",
+    "editor.background": "#141414"
+  },
+  "prettier.jsxSingleQuote": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "endOfLine": "auto",
+  "prettier.semi": true,
+  "prettier.disableLanguages": ["js"],
+  "prettier.stylelintIntegration": true,
+  "stylelint": {
+    "extends": [
+      "stylelint-config-idiomatic-order",
+      "./node_modules/prettier-stylelint/config.js"
+    ],
+    "rules": {
+      "indentation": 4,
+      "string-quotes": "single"
+    }
+  },
+  "todohighlight.isEnable": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "json.format.enable": false,
+  "editor.formatOnSave": true,
+  "[scss]": {
+    "editor.defaultFormatter": "michelemelluso.code-beautifier"
+  },
+  "cSpell.userWords": ["addcontact", "updatepassword"],
+  "[less]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "michelemelluso.code-beautifier"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "emojisense.languages": {
+    "plaintext": {
+      "markupCompletionsEnabled": true,
+      "emojiDecoratorsEnabled": true
+    },
+    "javascript.validate.enable": false,
+    "abap": true,
+    "bat": true,
+    "bibtex": true,
+    "clojure": true,
+    "coffeescript": true,
+    "c": true,
+    "cpp": true,
+    "csharp": true,
+    "css": true,
+    "diff": true,
+    "dockerfile": true,
+    "fsharp": true,
+    "git-commit": true,
+    "git-rebase": true,
+    "go": true,
+    "groovy": true,
+    "handlebars": true,
+    "html": true,
+    "ini": true,
+    "java": true,
+    "javascript": true,
+    "javascriptreact": true,
+    "json": true,
+    "jsonc": true,
+    "latex": true,
+    "less": true,
+    "lua": true,
+    "makefile": true,
+    "markdown": true,
+    "objective-c": true,
+    "objective-cpp": true,
+    "perl6": true,
+    "php": true,
+    "powershell": true,
+    "jade": true,
+    "python": true,
+    "r": true,
+    "razor": true,
+    "ruby": true,
+    "rust": true,
+    "scss": true,
+    "sass": true,
+    "shaderlab": true,
+    "shellscript": true,
+    "sql": true,
+    "swift": true,
+    "typescript": true,
+    "typescriptreact": true,
+    "tex": true,
+    "vb": true,
+    "xml": true,
+    "xsl": true,
+    "yaml": true
+  },
+  "polacode.transparentBackground": true,
+  "workbench.colorTheme": "CodeSandbox",
+  "liveServer.settings.donotVerifyTags": true,
+  "files.eol": "\n",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "thunder-client.codeSnippetLanguage": "cs-httpclient",
+  "window.zoomLevel": -1,
+  "terminal.integrated.defaultProfile.windows": "Git Bash"
+  // "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
